@@ -1,0 +1,22 @@
+{
+  "js_frameworks": {
+    "react": "React",
+    "vue": "Vue.js",
+    "angular": "Angular",
+    "jquery": "jQuery",
+    "next": "Next.js"
+  },
+  "css_frameworks": {
+    "bootstrap": "Bootstrap",
+    "tailwind": "Tailwind CSS",
+    "bulma": "Bulma",
+    "foundation": "Foundation"
+  },
+  "other_frameworks": {
+    "django": "Django",
+    "flask": "Flask",
+    "laravel": "Laravel",
+    "rails": "Ruby on Rails",
+    "spring": "Spring Boot"
+  }
+}
